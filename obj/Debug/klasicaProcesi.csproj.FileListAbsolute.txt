@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\bin\Debug\klasicaProcesi.exe.config
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\bin\Debug\klasicaProcesi.exe
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\bin\Debug\klasicaProcesi.pdb
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.Form1.resources
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.Properties.Resources.resources
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.exe
+C:\Users\ucenik\source\repos\klasicaProcesi\klasicaProcesi\obj\Debug\klasicaProcesi.pdb
